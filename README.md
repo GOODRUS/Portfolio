@@ -15,6 +15,5 @@
 - реализована система [Data-helpers](https://github.com/GOODRUS/diplom2023/tree/main/src/test/java/ru/netology/data) для управления тестовыми данными;
 - проведена автоматизация [Backend](https://github.com/GOODRUS/diplom2023/tree/main/src/test/java/ru/netology/test/Backend) и [Frontend](https://github.com/GOODRUS/diplom2023/tree/main/src/test/java/ru/netology/test/Frontend) сценариев;
 - настроена непрерывная интеграция([CI](https://ci.appveyor.com/project/GOODRUS/diplom2023)) с возможностью запуска авто-тестов в БД SQL и PostgreSQL;
-- проведено [итоговое тестирование](https://github.com/GOODRUS/diplom2023/blob/main/docs/Report.md#общие-итоги), которое выявило, что из 88 тестов, успешно прошли 42, что составляет 47,72% от общего количества;
 - сформирован отчёт с использование [Allure report](https://github.com/GOODRUS/diplom2023/blob/main/docs/Report.md#отчёт-по-итогам-тестирования);
 - заведены 15 [баг-репорта](https://github.com/GOODRUS/diplom2023/issues) по найденным дефектам. 
